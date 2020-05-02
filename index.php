@@ -5,11 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
         <link rel="stylesheet" href="estilos.css">
-        <title>Cuareningo</title>
+        <title>Cuarenbingo</title>
     </head>
     <body>
         <div class="container">
-            <h1>Cuareningo</h1>
+            <h1>Cuarenbingo</h1>
             <div class="row">
                 <form action="bingo.php" class="needs-validation" method="post" id="frm_nuevo_numero">
                     <div class="form-group">
