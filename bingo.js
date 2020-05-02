@@ -28,6 +28,7 @@ $().ready(function(){
     });
     */
     getNumbers();
+    $("#insertar_numero").focus();
 });
 
 
